@@ -5,3 +5,5 @@ https://git-scm.com/book/en/v2/Git-Basics-Tagging
 adding one line v1.0
 
 adding one line v1.1
+
+adding one line v1.2
